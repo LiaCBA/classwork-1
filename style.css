@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f7f9;
+}
+
+.white-box {
+  width: 304px;
+  margin: 0 auto;
+  margin-top: 206px;
+  margin-left: 568px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding-bottom: 29px;
+}
+
+h1 {
+  font-size: 20px;
+  color: #1a202c;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-left: 24px;
+  padding-top: 28px;
+}
+
+img {
+  width: 232px;
+  height: 72px;
+  margin-top: 88px;
+  margin-left: 36px;
+}
+
+.desc-text {
+  font-size: 14px;
+  font-weight: 500;
+  gap: 16px;
+  color: #90a3bf;
+  display: flex;
+  justify-content: center;
+  margin-top: 64px;
+}
+
+.price {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 24px;
+  padding-right: 20px;
+  width: 100%;
+  color: #1a202c;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 24px;
+}
+
+.rental-button {
+  background-color: #3563e9;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  gap: 20px;
+}
+.price-container {
+  display: flex;
+  justify-content: space-between;
+}
